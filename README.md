@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stianoek&label=Profile%20views&color=0e75b6&style=flat" alt="stianoek" /> </p>
 
-- 🔭 I’m currently working on:  [Zeipt](http://zeiptlanding.stianhermansen.com)
+- 🔭 I’m currently working on - [Zeipt](http://zeiptlanding.stianhermansen.com)
 
-- 🌱 I’m currently learning:  **Advanced Java, React, and everything else :D**
+- 🌱 I’m currently learning - **Advanced Java, React, and everything else :D**
 
-- 👯 I’m looking to collaborate with:  **Others at anytime**
+- 👯 I’m looking to collaborate with - **Others at anytime**
 
-- 👨‍💻 All of my projects are available at:  [www.stianhermansen.com](http://www.stianhermansen.com)
+- 👨‍💻 All of my projects are available at - [www.stianhermansen.com](http://www.stianhermansen.com)
 
-- 💬 Ask me about:  **React**
+- 💬 Ask me about - **React**   
 
-- 📫 How to reach me:  **stian.oek@gmail.com**
+- 📫 How to reach me - **stian.oek@gmail.com**
 
-- ⚡ Fun fact:  **I dont drink THAT much coffee**
+- ⚡ Fun fact - **I dont drink THAT much coffee**
 
 
 <h3 align="left">Languages and Tools:</h3>
