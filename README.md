@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stianoek&label=Profile%20views&color=0e75b6&style=flat" alt="stianoek" /> </p>
 
-- 🔭 I’m currently working on [Zeipt](zeiptlanding.stianhermansen.com)
+- 🔭 I’m currently working on [Zeipt](http://zeiptlanding.stianhermansen.com)
 
 - 🌱 I’m currently learning **Advanced Java, React, and everything else :D**
 
