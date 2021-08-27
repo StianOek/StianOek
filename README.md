@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **Others at anytime**
 
-- 👨‍💻 All of my projects are available at [www.stianhermansen.com](www.stianhermansen.com)
+- 👨‍💻 All of my projects are available at [www.stianhermansen.com](http://www.stianhermansen.com)
 
 - 💬 Ask me about **React**
 
